@@ -42,6 +42,9 @@
         <item name="android:textAppearanceMedium">@style/MediumText</item>
         <item name="android:textAppearanceSmall">@style/SmallText</item>
         <item name="android:titleTextStyle">@style/TitleText</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">#ffdcdcdc</item>
     </style>
 
     <style name="DialogWhenLargeNoAnimation" parent="DialogWhenLarge">
